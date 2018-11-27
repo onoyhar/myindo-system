@@ -1,8 +1,8 @@
 <?php
     $localhost = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "myindo_new_version";
+    $username = "myindo-dev";
+    $password = "admin4myind0";
+    $dbname = "myindo_systems";
     // create connection
     $connect = new mysqli($localhost, $username, $password, $dbname);
     // check connection

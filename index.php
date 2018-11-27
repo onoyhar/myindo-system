@@ -7,18 +7,18 @@
         <link rel="icon" href="https://dad0jvgioe6jb.cloudfront.net/logos/17/1028617/Myindo1.png" type="image/png">
         <title>Myindo Cyber Media</title>
         <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="vendors/linericon/style.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-        <link rel="stylesheet" href="vendors/lightbox/simpleLightbox.css">
-        <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
-        <link rel="stylesheet" href="vendors/animate-css/animate.css">
-        <link rel="stylesheet" href="vendors/popup/magnific-popup.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="vendors/linericon/style.css">
+        <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="vendors/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" type="text/css" href="vendors/lightbox/simpleLightbox.css">
+        <link rel="stylesheet" type="text/css" href="vendors/nice-select/css/nice-select.css">
+        <link rel="stylesheet" type="text/css" href="vendors/animate-css/animate.css">
+        <link rel="stylesheet" type="text/css" href="vendors/popup/magnific-popup.css">
         <!-- main css -->
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/responsive.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="css/responsive.css">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
     </head>
     <body data-spy="scroll" data-target="#mainNav" data-offset="70">
 
